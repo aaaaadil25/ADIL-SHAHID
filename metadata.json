@@ -1,0 +1,8 @@
+{
+  "name": "GlobalCompliance AI",
+  "description": "Enterprise-grade product compliance and import analysis tool using Gemini 3 Pro with Google Search Grounding for real-time 2026 regulations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
